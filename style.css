@@ -1,0 +1,83 @@
+*{
+    padding: 0%;
+    margin:0%;
+}
+.hole{
+    background-attachment: scroll;
+    background-size: cover;
+    content: normal;
+    height: 100%;
+    width: 100%;
+    background-image:url(./accest/image/R.jpg);
+    background-repeat: no-repeat;
+    position: absolute;
+}
+.holy{
+    box-shadow: inset;
+    border-radius: 20px;
+    height: 600px;
+    width: 1250px;
+    margin-top: 20px;
+    margin-left: 10px;
+   background-color: rgb(52, 60, 94);
+    background-repeat: no-repeat;
+    background-size: cover;}
+.hol{
+    
+    box-shadow: 2000%;
+   opacity: 0.7;
+    
+    margin-left: 900px;
+     background-image: url(./accest/image/OIP.jpg);
+    height: 300px;
+    width: 300px;
+    background-repeat: no-repeat;
+    }
+    .content{
+       margin-left: 30px;
+       color: aliceblue;
+    }
+p{  
+    
+ color: rgb(248, 248, 248); 
+font-size: xx-large;
+}
+.ang{
+       background: transparent;
+   backdrop-filter: blur(29px);
+    background-color: rgba(177, 41, 41, 0);
+    width: 150px;
+    height: 30px;
+    border-radius: 30px;
+    cursor: pointer;
+      outline: none;
+       transform: translateY(4px);
+    }
+button{
+  
+    
+         background: transparent;
+   backdrop-filter: blur(29px);
+    background-color: rgba(224, 14, 14, 0.397);
+    width: 100px;
+    height: 30px;
+    border-radius: 30px;
+ 
+    
+       transform: translateY(4px);
+}
+.shat{
+ 
+    margin-left: 700px;
+}
+.logo{
+    margin-bottom: 100px;
+    margin-left: 20px;
+   font-size: xx-large;
+   
+}
+.fa{
+    background-color: rgba(240, 248, 255, 0);
+    color: rgb(224, 224, 224);
+    
+}
